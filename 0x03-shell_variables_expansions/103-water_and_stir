@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%o\n" $(())
+printf "%bestchol s \n" $(($WATER + $STIR))
